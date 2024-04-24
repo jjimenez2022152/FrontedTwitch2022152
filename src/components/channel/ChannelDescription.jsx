@@ -1,4 +1,4 @@
-/* eslint-disable react/prop-types */
+
 import { useFollowChannel, useUserDetails } from "../../shared/hooks";
 
 const FollowButton = ({ channelId, getChannels }) => {
